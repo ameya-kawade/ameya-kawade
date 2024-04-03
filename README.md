@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 What I Do<br><br>- 📚 Currently pursuing Diploma Computer Engineering at Pimpri Chinchwad Polytechnic<br>- 💻 I love working on projects that involve Javascript, Python<br>- 🌱 Always eager to learn new concepts and technologies<br>- 🎨 I enjoy the creative side of coding, from design to implementation
+🚀 What I Do<br><br>- 📚 Currently pursuing Diploma in Computer Engineering at Pimpri Chinchwad Polytechnic<br>- 💻 I love working on projects that involve Javascript, Python<br>- 🌱 Always eager to learn new concepts and technologies<br>- 🎨 I enjoy the creative side of coding, from design to implementation
 
 
 # 💻 Tech Stack:
